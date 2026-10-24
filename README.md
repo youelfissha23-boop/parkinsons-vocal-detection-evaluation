@@ -14,4 +14,4 @@ See `data/README.md`.
 - `notebooks/01_leakage_safe_evaluation.ipynb`: leaky vs. person-grouped validation, baselines, and cross-validated model comparison.
 
 ## Citation
-[Paste the dataset citation from its source page here.]
+Little, M. (2007). Parkinsons [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C59C74.
